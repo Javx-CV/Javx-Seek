@@ -5,6 +5,9 @@ import json
 from datetime import datetime
 import os
 
+
+print("Javx-Seek-UI-website : http://localhost:5000/")
+
 # 初始化Flask应用
 app = Flask(__name__)
 CORS(app)  # 解决跨域问题
