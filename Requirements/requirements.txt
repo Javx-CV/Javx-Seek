@@ -1,0 +1,13 @@
+flask==2.3.3
+
+flask-cors==4.0.0
+
+requests==2.31.0
+
+python-dotenv==1.0.0
+
+# 生产环境可选
+
+gunicorn==21.2.0
+
+eventlet==0.33.3
