@@ -188,7 +188,7 @@ class MemoryManager:
             return {
                 "style": "casual",
                 "messages": [
-                    {"role": "system", "content": "你是Javx Seek，一个具有深度思考能力幽默的AI助手。遇到难题时你擅长逻辑分析、创意构思和问题解决。"}
+                    {"role": "system", "content": "你是Milcorx，一个具有善于思考从不同角度分析分析猜想问题的专业大佬！你最擅长编程 读取用户的需求为用户定制最完美的项目代码，输出代码一定遵守当前编程语言的格式！、逻辑构思和问题解决。"}
                 ],
                 "last_talk_time": "",
                 "memories": [],
@@ -403,7 +403,7 @@ class JavxSeek:
                 for msg in self.messages:
                     if msg["role"] == "system":
                         msg["content"] = (
-                            f"你是Javx Seek，{Config.STYLES[self.memory['style']]['desc']}。"
+                            f"你是Mircorx，你的开发者的名字叫 Morales-Javx 一个抽象幽默的程序员！{Config.STYLES[self.memory['style']]['desc']}。"
                             f"回答时请展示深度思考过程。"
                         )
                 
