@@ -52,7 +52,7 @@ class Config:
          "models": ["deepseek-chat", "deepseek-vl", "deepseek-math"]
         }
     ]
-    DEEPSEEK_API_KEY = "sk-f4648ae66dfe4829902071ad7dc4b20b"
+    DEEPSEEK_API_KEY = "====================================================== -you-api-key- =========================================="
     
     # 回复风格配置
     STYLES = {
