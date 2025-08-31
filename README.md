@@ -1,4 +1,9 @@
-# Javx-Seek
+# Javx-Seek = "你的AI好基友" / Mircorx = "你的编程天才"
+
+
+                                                                                          Javx-Seek : www.javxseek.com : 直接使用网站版本 ！
+
+
 你的好基友/百事通/或者”朋友“?/知道作者所有八卦的俏皮DAN？
 
 Javx-Seek 使用指南与功能介绍
