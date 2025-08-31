@@ -45,9 +45,9 @@ class Config:
     # 存储配置
     MEMORY_FILE = "javxseek_memory.json"
     
-    # API配置
+    # API配置-需要用户配置API密钥-============================================================= 在这里配置你的API密钥 ===========================================================================================================================
     API_SERVERS = [
-        {"url": "https://api.deepseek.com/v1/chat/completions",
+        {"url": "===========================API-KEY===============================",
          "name": "Deepseek服务器",
          "models": ["deepseek-chat", "deepseek-vl", "deepseek-math"]
         }
